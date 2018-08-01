@@ -20,6 +20,7 @@ body {
 }
 ul {
   list-style: none;
+  text-align: center;
 }
 a {
   color: #D3C3A7;
